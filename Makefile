@@ -66,7 +66,8 @@ TARGETS = \
 	u-boot \
 	usb-modem-drivers-pkg \
 	util-linux \
-	xfsprogs
+	xfsprogs \
+	fusionio
 
 # - kernel & dependent packages (out of tree kernel modules)
 #   kernel first, then packages in alphabetical order
